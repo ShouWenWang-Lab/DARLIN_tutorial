@@ -1,23 +1,21 @@
 # Introduction
-These are the tutorials associated with downstream DARLIN data analysis, developed during our work in [L. Li,...,S.-W. Wang, F. Camargo, Cell (2023)](https://doi.org/10.1016/j.cell.2023.09.019) 
+These are the tutorials associated with downstream DARLIN data analysis, developed during our DARLIN paper [L. Li,...,S.-W. Wang, F. Camargo, Cell (2023)](https://doi.org/10.1016/j.cell.2023.09.019) 
 
-Single-cell lineage analysis includes
-1) Data loading
-2) Common allele filtering
-3) Allele integration across different target loci
-4) Lineage coupling or fate bias analysis
+`Single-cell lineage analysis` includes
+- Data loading
+- Common allele filtering
+- Allele integration across different target loci
+- Lineage coupling or fate bias analysis
 
-Bulk lineage analysis includes
-1) Data loading
-2) Common allele filtering
-3) Lineage coupling or shared clone fraction analysis
+`Bulk lineage analysis` includes
+- Data loading
+- Common allele filtering
+- Lineage coupling or shared clone fraction analysis
 
 
-For allele integration across different loci, we used a heuristic approach that remains to be further improved. 
+For allele integration across different loci, we used a heuristic approach that remains to be further improved. We use data associated with Figure 4 in paper for the single-cell tutorial, and use the data in Figure 5 for the bulk tutorial. In principle, the mutation patterns of the alleles can be further utilized for inferring lineage phylogeny. This is an advanced topic not covered by this tutorial.
 
-In principle, the mutation patterns of the alleles can be further utilized for inferring lineage phylogeny. This is an advanced topic not covered by this tutorial.
 
-We use data associated with Figure 4 in paper for the single-cell tutorial, and use the data in Figure 5 for the bulk tutorial.
 
 # Data preparation
 
