@@ -60,6 +60,10 @@ cd snakemake_DARLIN
 python setup.py develop
 ```
 
+## Reference
+
+L. Li, S. Bowling, S. E. McGeary, Q. Yu, B. Lemke, K. Alcedo, Y. Jia, X. Liu, M. Ferreira, A. M. Klein, S.-W. Wang*, F. D. Camargo*, [A mouse model with high clonal barcode diversity for joint lineage, transcriptomic, and epigenomic profiling in single cells, Cell (2023).](https://doi.org/10.1016/j.cell.2023.09.019) [* corresponding authors]
+
 ## External links
 
 - `20231122_DARLIN_in_vivo_hematopoiesis.ipynb` is also available from [CoSpar package](https://github.com/ShouWenWang-Lab/cospar/blob/master/docs/source/20231122_DARLIN_in_vivo_hematopoiesis.ipynb).
