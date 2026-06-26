@@ -26,6 +26,8 @@ git clone https://github.com/ShouWenWang-Lab/DARLIN_tutorial
 
 These notebooks cannot be directly executed without data. Please download the entire project file (~13G) from [zendo](https://zenodo.org/records/11929508), which includes all these notebooks, as well as all the raw and processed data needed for this tutorial, arranged in the correct folder structure that is runnable.
 
+Single-cell metadata are curated in `DARLIN_HSC_sample_sheet.tsv.gz`.
+
 To download all raw or processed data, please go to [GEO: GSE222486](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE222486)
 
 # Conda environment
