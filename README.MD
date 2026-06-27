@@ -26,7 +26,7 @@ git clone https://github.com/ShouWenWang-Lab/DARLIN_tutorial
 
 These notebooks cannot be directly executed without data. Please download the entire project file (~13G) from [zendo](https://zenodo.org/records/11929508), which includes all these notebooks, as well as all the raw and processed data needed for this tutorial, arranged in the correct folder structure that is runnable.
 
-Single-cell metadata are curated in `DARLIN_HSC_sample_sheet.tsv.gz`.
+Single-cell metadata are curated in `DARLIN_HSC_sample_sheet.tsv.gz`. This is the metadata associated with Figs. 5 & 6 for the HSCs profiled with Camellia-seq. The DARLIN clone ID can be found under the key `large_clone_id`. The UMAP coordinates for DNA methylation embeddings can be found under the keys `UMAP_rna_x` and `UMAP_rna_y`. The mouse and tissue information can be found under `mouse`, `tissue`, and `celltype_by_tissue`. The cell type can be found under `celltype`. Other useful keys include `pass_accQC`, `pass_metQC`, `nCG`, and `met_rate`.
 
 To download all raw or processed data, please go to [GEO: GSE222486](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE222486)
 
